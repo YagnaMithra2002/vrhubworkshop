@@ -32,11 +32,7 @@ SNO|MOVIENAME
 2|IROMAN 1
 3|IRONMAN 2
 
-:EMOJICODE:.
-
-@octocat :smiling_face_with_three_hearts: heart_eyes- it's ready to merge! :shipit:
-
-Rendered emoji
+:smiling_face_with_three_hearts: :black_heart:
 
 1. IRONMAN1
     - IRONMAN2
@@ -46,4 +42,4 @@ Rendered emoji
             - CAPTAIN AMERICA CIVIL WAR
               - AVENGERS ENDGAME
 
-@M
+@MarrapuDeepak/support
